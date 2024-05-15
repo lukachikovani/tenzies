@@ -2,7 +2,7 @@
 
 Welcome to the Tenzies Game! This project is built using React and Javascript. The objective of the game is to roll dice until all of them show the same number. You can hold dice in place to keep their value between rolls.
 
-- [View Website](Link)
+- [View Website](https://tenzies-luka.netlify.app/)
 
 ### How to Play
 1. The game starts with a random number on each of the ten dice.
